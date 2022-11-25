@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/husky-search/static/css/main.debecb0c.css",
+    "main.js": "/husky-search/static/js/main.4c7be03e.js",
+    "index.html": "/husky-search/index.html",
+    "main.debecb0c.css.map": "/husky-search/static/css/main.debecb0c.css.map",
+    "main.4c7be03e.js.map": "/husky-search/static/js/main.4c7be03e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.debecb0c.css",
+    "static/js/main.4c7be03e.js"
+  ]
+}
