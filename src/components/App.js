@@ -27,7 +27,7 @@ class App extends React.Component {
 
         <div>
         <h2 class="ui center aligned header">
-  <img class="ui image" src="./husky-logo.png" />
+  <img class="ui image" src="./logo.png" />
   <div class="content">
   Husky-Search
   </div>
